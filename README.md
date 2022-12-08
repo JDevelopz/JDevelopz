@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JDevelopz a.k.a Jeff
 - 👀 I’m interested in Front-End developing with JavaScript & React.js
 - 🌱 I’m currently learning Redux and Next.js
-- 💞️ I’m looking to collaborate on Front-end Projects and possible Job oppertunities. 
+- 💞️ I’m looking to collaborate on Front-end Projects and possible Job opportunities. 
 - 📫 How to reach me? Send me a PM. 
 
 <!---
